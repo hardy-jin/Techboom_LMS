@@ -1,0 +1,28 @@
+.link-type,
+.link-type:focus {
+  color: #2e2e2ee8;
+  cursor: pointer;
+  text-decoration: none;
+  align-items: center;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB',
+  'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+
+  &:hover {
+    color: #3868b1;
+  }
+}
+
+.link-type-small,
+.link-type-small {
+  color: #2e2e2ee8;
+  cursor: pointer;
+  font-size: small;
+  text-decoration: none;
+  align-items: center;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB',
+  'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+
+  &:hover {
+    color: #3868b1;
+  }
+}
